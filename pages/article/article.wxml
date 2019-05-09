@@ -7,13 +7,13 @@
   duration="{{1000}}"
 >
     <swiper-item>
-      <image src='../../img/ad2.jpg'></image>
+      <image src='https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2917799186,1224386513&fm=27&gp=0.jpg'></image>
     </swiper-item>
     <swiper-item>
-      <image src='../../img/ad3.jpg'></image>
+      <image src='https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1385637024,4270489753&fm=27&gp=0.jpg'></image>
     </swiper-item>
     <swiper-item>
-      <image src='../../img/ad5.jpg'></image>
+      <image src='https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3258245533,2642137544&fm=27&gp=0.jpg'></image>
     </swiper-item>    
   </swiper>
   <view class='article-wrap'>
