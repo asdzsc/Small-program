@@ -15,6 +15,8 @@ Page({
     //处理收藏状态
     var articles_collection = wx.getStorageSync('articles_collection');
     var isCollected = false;
+    console.log(wx.getStorageSync('articles_collection'))
+    console.log(articles_collection)
     if (!articles_collection) {
       /**
        * {

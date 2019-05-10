@@ -73,7 +73,7 @@ Page({
     getMovieListData(top250Url, function (data) {
       _this.setData({
         top250data: data,
-        top250Tag: '豆瓣TOP200',
+        top250Tag: '豆瓣TOP250',
         top250Type:'top250'
       })
     });

@@ -1,17 +1,16 @@
 {
   "pages": [
-    
+    "pages/index/index",
     "pages/movie/movie",
     "pages/movie/movie-more/movie-more",
-    "pages/index/index",
+    
     "pages/article/article",
     "pages/article/article-detail/article-detail"
     
     
   ],
   "window": {
-    "navigationBarBackgroundColor": "#fabda1",
-    "enablePullDownRefresh":true
+    "navigationBarBackgroundColor": "#fabda1"
   },
   "tabBar": {
     "color": "#000",
